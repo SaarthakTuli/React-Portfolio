@@ -59,7 +59,7 @@ const Project = () => {
             <Swiper className="project__content"
                 modules={[Pagination]}
                 spaceBetween={10}
-                slidesPerView={2}
+                slidesPerView={1}
                 navigation
                 pagination={{ clickable: true }}
                 scrollbar={{ clickable: true }}
