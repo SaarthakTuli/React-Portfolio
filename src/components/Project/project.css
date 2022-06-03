@@ -1,0 +1,32 @@
+.project__container {
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 15%;
+}
+
+.project__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
+
+.project__card {
+    background: var(--color-bg-varient);
+    border: solid 1px transparent;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    transition: var(--transition);
+}
+
+.project__card:hover {
+    background: transparent;
+    border-color: var(--color-primary-varient);
+    cursor: default;
+}
+
+.project__img {
+    padding: 2rem;
+    text-align: center;
+    transition: var(--transition);
+}
