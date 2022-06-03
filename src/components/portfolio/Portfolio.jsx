@@ -60,10 +60,6 @@ const data = [
 ]
 
 
-
-
-
-
 const Portfolio = () => {
   return (
     <section id='portfolio'>
