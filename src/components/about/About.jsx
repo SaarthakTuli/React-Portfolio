@@ -43,7 +43,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque rem eligendi quos expedita! Aperiam vitae ab tenetur, minima explicabo illo soluta, unde at laborum, aspernatur consequatur blanditiis qui adipisci molestias aliquid quam modi quisquam voluptatem. Ratione sequi tempora, esse amet cupiditate dicta qui. Consectetur dolorem ex atque ab animi quia saepe vero! Molestiae impedit veritatis est ad consectetur? Inventore ullam reiciendis reprehenderit ut beatae voluptate tempore iste expedita laborum. Delectus voluptates, exercitationem est voluptatum suscipit quos possimus quibusdam aut porro eligendi soluta voluptatibus nulla error fugiat eius velit earum ullam consequatur illo magnam. Aliquid perspiciatis, explicabo autem totam doloremque in?
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam, provident ullam. Maiores corporis sapiente autem ullam praesentium veniam dignissimos facilis, omnis enim iusto optio quas voluptate vero dolores eveniet minus.
                     </p>
 
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
