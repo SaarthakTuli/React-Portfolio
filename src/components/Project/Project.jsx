@@ -86,7 +86,7 @@ const Project = () => {
                     })
                 }
 
-        </Swiper>
+              </Swiper>
 
         </div>
     </section>

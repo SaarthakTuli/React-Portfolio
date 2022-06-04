@@ -28,6 +28,7 @@
     background: var(--color-bg-varient);
     border: solid 1px transparent;
     border-radius: 1rem;
+    transition: var(--transition);
 }
 
 .proj__avatar {
@@ -36,7 +37,8 @@
 }
 
 .proj__avatar>img {
-    padding: 1rem;
+    border: solid 0.2rem var(--color-primary-varient);
+    border-radius: 2rem;
 }
 
 .proj__avatar>p {
